@@ -11,7 +11,7 @@ I also enjoy creating responsive user interfaces and visually appealing designs 
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 Tech Skills
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
