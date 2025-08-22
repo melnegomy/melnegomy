@@ -12,14 +12,9 @@ I also enjoy creating responsive user interfaces and visually appealing designs 
 ---
 
 ### 🚀 Tech Skills
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,git,github,sqlserver" height="50"/>
+</p>
 
 ---
 
@@ -32,7 +27,7 @@ I also enjoy creating responsive user interfaces and visually appealing designs 
 &nbsp;
 [<img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Email" />](mailto:elnogomymohammed@gmail.com)
 &nbsp;
-[<img src="https://skillicons.dev/icons?i=facebook" width="42" alt="Facebook" />](https://www.facebook.com/mohammed.elnogomy.438842)
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="42" alt="Facebook" />](https://www.facebook.com/mohammed.elnogomy.438842)
 
 </p>
 
