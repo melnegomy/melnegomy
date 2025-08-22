@@ -56,13 +56,6 @@ I also enjoy creating responsive user interfaces and visually appealing designs 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=melnegomy&repo=js-calculator&theme=tokyonight" />
 </a>
 
-#### In Progress
-<a href="https://github.com/melnegomy/NewApp">
-  <img src="https://img.shields.io/badge/New%20App-Work%20in%20Progress-yellow?style=for-the-badge&logo=github" />
-</a>
-<a href="https://github.com/melnegomy/CSharp-Basics">
-  <img src="https://img.shields.io/badge/CSharp%20Basics-Under%20Development-blue?style=for-the-badge&logo=csharp" />
-</a>
 
 ---
 
