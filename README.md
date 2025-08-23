@@ -15,7 +15,7 @@ I enjoy combining backend logic with frontend design to deliver a complete and s
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 Tech Skills
 
 <p align="center">
   <!-- Languages & Frameworks -->
