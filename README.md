@@ -36,29 +36,6 @@ I also enjoy creating responsive user interfaces and visually appealing designs 
 
 ---
 
-### 📌 Pinned Projects
-#### Completed
-<a href="https://github.com/melnegomy/Project1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=melnegomy&repo=Project1&theme=tokyonight" />
-</a>
-<a href="https://github.com/melnegomy/Project2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=melnegomy&repo=Project2&theme=tokyonight" />
-</a>
-
-#### Frontend Projects
-<a href="https://github.com/melnegomy/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=melnegomy&repo=portfolio&theme=tokyonight" />
-</a>
-<a href="https://github.com/melnegomy/landing-page">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=melnegomy&repo=landing-page&theme=tokyonight" />
-</a>
-<a href="https://github.com/melnegomy/js-calculator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=melnegomy&repo=js-calculator&theme=tokyonight" />
-</a>
-
-
----
-
 ### 📈 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=melnegomy&show_icons=true&theme=tokyonight" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melnegomy&layout=compact&theme=tokyonight" width="48%" />
