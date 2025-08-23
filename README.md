@@ -5,8 +5,12 @@
 ### Back-End Developer (.NET) | Front-End Developer | Web Designer
 
 <p>
-I am a passionate <strong>Back-End Developer specializing in .NET</strong> with a strong foundation in building scalable, secure, and high-performing web applications.  
-I also enjoy creating responsive user interfaces and visually appealing designs to deliver complete, seamless digital experiences.
+Backend .NET Developer in Web | Frontend (HTML, CSS, JS, Bootstrap)  
+  <br>
+💡 I work as a web developer using .NET technologies in the backend to build structured and efficient systems.  
+At the same time, I have experience in frontend development with HTML, CSS, JS, and Bootstrap  
+to create clean, responsive, and user-friendly interfaces.  
+I enjoy combining backend logic with frontend design to deliver a complete and seamless web experience.  
 </p>
 
 ---
