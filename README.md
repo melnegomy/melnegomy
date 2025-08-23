@@ -37,8 +37,8 @@ I also enjoy creating responsive user interfaces and visually appealing designs 
 ---
 
 ### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=melnegomy&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melnegomy&layout=compact&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=melnegomy&show_icons=true&theme=tokyonight" width="48%" height=200vh />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melnegomy&show_icons=true&layout=compact&theme=tokyonight" width="48%" height=200vh />
 
 ---
 ### 🌐 Connect with Me
